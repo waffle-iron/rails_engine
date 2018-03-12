@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/lnchambers/rails_engine.png?columns=all)](https://waffle.io/lnchambers/rails_engine?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/codyborders/rails_engine.png?label=ready&title=Ready)](https://waffle.io/codyborders/rails_engine)
 # README
 
